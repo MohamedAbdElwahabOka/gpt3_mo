@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/gpt3_mo/static/js/main.f27f35b1.js",
+    "index.html": "/gpt3_mo/index.html",
+    "main.f27f35b1.js.map": "/gpt3_mo/static/js/main.f27f35b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f27f35b1.js"
+  ]
+}
