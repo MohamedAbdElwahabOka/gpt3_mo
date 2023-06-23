@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.js": "/gpt3_mo/static/js/main.f27f35b1.js",
+    "main.css": "/gpt3_mo/static/css/main.31d6cfe0.css",
+    "main.js": "/gpt3_mo/static/js/main.5858e644.js",
     "index.html": "/gpt3_mo/index.html",
-    "main.f27f35b1.js.map": "/gpt3_mo/static/js/main.f27f35b1.js.map"
+    "main.5858e644.js.map": "/gpt3_mo/static/js/main.5858e644.js.map"
   },
   "entrypoints": [
-    "static/js/main.f27f35b1.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.5858e644.js"
   ]
 }
