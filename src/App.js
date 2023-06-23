@@ -1,9 +1,23 @@
 import React from 'react'
+import { Brand, CTA, Navbar, Article } from './components';
+import { Footer, Header, Possibility, WhatGPT3, Features, Blog } from './containers';
 
-function App() {
+
+
+const App = () => {
     return (
-        <div>
-            <h1>gpt 3</h1>
+        <div className="App">
+            <div className='gradient__bg'>
+                <Navbar />
+                <Header />
+            </div>
+            <Brand />
+            <WhatGPT3 />
+            <Features />
+            <Possibility />
+            <CTA />
+            <Blog />
+            <Footer />
 
         </div>
     )
